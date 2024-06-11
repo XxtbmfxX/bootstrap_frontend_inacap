@@ -1,0 +1,10 @@
+.main{
+    position: relative;
+}
+
+#cesta{
+    background-color: aquamarine;
+    padding: 20px;
+    width: 100%;
+    
+}
